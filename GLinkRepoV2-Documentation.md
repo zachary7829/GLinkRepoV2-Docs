@@ -12,6 +12,6 @@ Repository Format - The repository format of your repo.
 
 This is the data of your repository, which is helpful for distinguishing multiple repositories from each other. Now, lets move on to packages.json.
 
-##Packages.json:
+<h2>Packages.json</h2>
 
 This part of the documentation is not set up yet. Please wait for it to be documented soon.
